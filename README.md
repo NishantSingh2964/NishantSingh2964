@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Raj</h1>
-<h3 align="center">A passionate frontend developer and software developer from India</h3>
+<h3 align="center">A passionate MERN stack and software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishantsingh2964&label=Profile%20views&color=0e75b6&style=flat" alt="nishantsingh2964" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **MERN project**
 
-- 🤝 I’m looking for help with **Frontend Tecnologies**
+- 🤝 I’m looking for help with **MERN project**
 
-- 💬 Ask me about **react, java Script, Data Structures**
+- 💬 Ask me about **React, nodejs, mongoDB, sql, Bootstrap, Tailwind CSS, Java, HTML, Redux, C++, etc.**
 
 - 📫 How to reach me **nishantraj7859@gmail.com**
 
